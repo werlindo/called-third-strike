@@ -1,0 +1,6 @@
+Clarifications
+
+Data
+1. Intentionally sampled? e.g. detected some gaps in data, e.g. low pitch counts.
+2. Metadata available?
+

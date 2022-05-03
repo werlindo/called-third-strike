@@ -1,3 +1,7 @@
+## Custom
+# Don't bother saving this file to remote repo.
+data/ 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
