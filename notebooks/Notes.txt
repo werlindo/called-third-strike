@@ -1,6 +1,10 @@
 Clarifications
 
 Data
-1. Intentionally sampled? e.g. detected some gaps in data, e.g. low pitch counts.
+1. Intentionally sampled? e.g. detected some gaps in data, e.g. low pitch counts. Do these exclude balls in play, foul balls, etc. (strike rate seems low?)
 2. Metadata available?
+3. Break 
+4. Angle
+5. Stratified sample
+6. AP, XX pitches
 
