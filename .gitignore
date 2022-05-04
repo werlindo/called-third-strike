@@ -1,6 +1,6 @@
 ## Custom
-# Don't bother saving this file to remote repo.
 data/ 
+notebooks/notes
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
