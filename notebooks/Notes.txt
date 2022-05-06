@@ -8,3 +8,6 @@ Data
 5. Stratified sample
 6. AP, XX pitches
 7. What's the purpose of the probability model? What's the threshold, 50%?
+
+--Add handedness to both models.
+--re-review the other features.
