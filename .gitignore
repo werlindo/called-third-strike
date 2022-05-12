@@ -1,6 +1,12 @@
 ## Custom
 data/ 
 notebooks/notes
+notebooks/models/_old
+notebooks/models/rs_results/_old
+notebooks/models/best_models/_not_used
+notebooks/versions
+notebooks/predictions/holdout/_old
+notebooks/predictions/holdout/deliverables/_old
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
