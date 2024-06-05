@@ -106,7 +106,7 @@ libclang==13.0.0
 lxml>=4.6.5
 
 Markdown==3.3.4
-markdown-it-py==1.1.0
+markdown-it-py==2.2.0
 
 #markdown2==2.3.7
 markdown2>=2.4.0
