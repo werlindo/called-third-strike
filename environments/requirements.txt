@@ -248,7 +248,7 @@ toml==0.10.2
 tomli==1.2.1
 tornado==6.4.1
 TPOT==0.3.0
-tqdm==4.62.0
+tqdm==4.66.3
 traitlets==5.0.5
 typing-extensions==3.7.4.3
 ubuntu-advantage-tools==27.3
