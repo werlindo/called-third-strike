@@ -209,7 +209,7 @@ rsa==4.7.2
 s3transfer==0.3.7
 sas7bdat==2.2.3
 scikit-image==0.19.2
-scikit-learn==1.0.2
+scikit-learn==1.5.0
 scipy==1.11.1
 scramp==1.4.1
 seaborn==0.11.1
