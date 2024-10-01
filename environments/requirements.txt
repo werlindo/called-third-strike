@@ -134,7 +134,7 @@ nltk>=3.6.6
 #notebook==6.4.1
 notebook>=6.4.10
 
-numexpr==2.8.1
+numexpr==2.8.5
 numpy==1.22.3
 oauthlib==3.2.2
 onelogin==2.0.2
